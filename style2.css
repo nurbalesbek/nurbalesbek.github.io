@@ -1,0 +1,126 @@
+body {
+    background-color: #111;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    background-image: url('C:\Users\Админ\Downloads\битмен.jpg');
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.category {
+    background-color: #333;
+    padding: 10px;
+    margin: 10px 0;
+    color: white;
+
+}
+
+h1 {
+    font-size: 24px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 5px 0;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.movie {
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+.movie img {
+    max-width: 100px;
+    margin-right: 20px;
+}
+
+.movie p {
+    margin: 0;
+}
+
+.background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('https://w.forfun.com/fetch/9b/9b1630653114e1dd4360c3ca581d76cb.jpeg');
+  background-size: cover;
+  z-index: -1;
+}
+
+.gilm {
+  margin-right: 20px;
+}
+
+.insta {
+color: inherit;
+}
+a{
+  color: inherit;
+ }
+
+       a:hover {
+           color: red;
+           text-decoration: underline;
+}
+section {
+  text-align: center;
+  margin: auto;
+  padding: 20px;
+  height: 100px;
+  width: 100px;
+}
+.nappp{
+  text-align: center;
+  color: white;
+}
+
+.nan, yt; {
+  color: inherit;
+}
+.jjj{
+  color: white;
+}
+.ooo{
+  color: white;
+  text-align: center;
+}
+.row{
+  color: white;
+  text-align: center;
+}
+.carddd{
+text-align: center;
+}
+.nzu{
+  text-align: center;
+  color: red;
+}
+.dwer{
+  text-align: center;
+}
+.navbar navbar-expand-lg navbar-light bg-light{
+  color: blue;
+}
+.carousel slide{
+  width: 10px;
+}
