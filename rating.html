@@ -78,6 +78,24 @@
 
 
 
+<button id="changeColorButton">Изменить цвет</button>
+
+<script>
+    const changeColorButton = document.getElementById('changeColorButton');
+    const body = document.body;
+    let isBlack = true;
+
+    changeColorButton.addEventListener('click', () => {
+        if (isBlack) {
+            body.style.backgroundColor = 'white';
+            body.style.color = 'white';
+        } else {
+            body.style.backgroundColor = 'white';
+            body.style.color = 'white';
+        }
+        isBlack = !isBlack;
+    });
+</script>
 
 
 
